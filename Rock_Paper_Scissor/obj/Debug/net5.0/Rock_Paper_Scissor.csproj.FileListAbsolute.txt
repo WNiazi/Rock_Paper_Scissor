@@ -1,0 +1,15 @@
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/obj/Debug/net5.0/Rock_Paper_Scissor.csproj.AssemblyReference.cache
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/obj/Debug/net5.0/Rock_Paper_Scissor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/obj/Debug/net5.0/Rock_Paper_Scissor.AssemblyInfoInputs.cache
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/obj/Debug/net5.0/Rock_Paper_Scissor.AssemblyInfo.cs
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/obj/Debug/net5.0/Rock_Paper_Scissor.csproj.CoreCompileInputs.cache
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/bin/Debug/net5.0/Rock_Paper_Scissor.deps.json
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/bin/Debug/net5.0/Rock_Paper_Scissor.runtimeconfig.json
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/bin/Debug/net5.0/Rock_Paper_Scissor.runtimeconfig.dev.json
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/bin/Debug/net5.0/Rock_Paper_Scissor.dll
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/bin/Debug/net5.0/ref/Rock_Paper_Scissor.dll
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/bin/Debug/net5.0/Rock_Paper_Scissor.pdb
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/obj/Debug/net5.0/Rock_Paper_Scissor.dll
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/obj/Debug/net5.0/ref/Rock_Paper_Scissor.dll
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/obj/Debug/net5.0/Rock_Paper_Scissor.pdb
+/Users/Wajma/Desktop/RockPaperScissor/Rock_Paper_Scissor/obj/Debug/net5.0/Rock_Paper_Scissor.genruntimeconfig.cache
